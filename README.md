@@ -26,3 +26,15 @@
 - Динамическая библиотека в которой используется [Boost.Beast](https://github.com/Kerminator1973/TlsProxy/tree/master/TlsProxyDll)
 - Библиотека Portable DSlip, использующая Asio для работы через USB CDC - репозитарий SVN КБ ДОРС (DSlipPortable)
 - Упрощённая реализация протокола CCNET, использующая [Asio Serial](https://github.com/Kerminator1973/GTestProject/tree/main/CMakeExamples/PortableCCNET)
+- [Реализация web-сервера с использованием Boost.Asio](https://github.com/Kerminator1973/TlsProxy/blob/master/make_shared.md)
+- WEB API для ЭСКД ProIDC с использованием Boost.Asio - репозитарий SVN КБ ДОРС (SberWebAPI)
+
+## Сертификаты/OpenSSL
+
+- [Проверка сертификата сервера](https://github.com/Kerminator1973/curlhttps/blob/master/pem.md) посредством curl, boost.beast, Android/Java, C#
+- [Настройка web-приложения в IIS](https://github.com/Kerminator1973/WebDevelopment/blob/master/iis.md) с использованием сертификатов. Более подробная [инструкция настройки клиентских сертификатов в IIS](https://github.com/Kerminator1973/curlhttps/blob/master/configureIIS.md)
+- [Проверка сертификатов в Node.js](https://github.com/Kerminator1973/WebDevelopment/blob/master/express.md) и [дополнительно](https://github.com/Kerminator1973/WebDevelopment/blob/master/http2.md)
+- [Проверка сертификатов в приложениях .NET на C#](https://github.com/Kerminator1973/curlhttps/tree/master/ClientCertificate)
+- [Пример скрипта генерации сертификатов](https://github.com/Kerminator1973/curlhttps/tree/master/MakeCertificates)
+- [Использование клиентских сертификатов в C# и C++/curl](https://github.com/Kerminator1973/curlhttps/blob/master/clientCert.md)
+- [Загрузка сертификатов из хранилища Windows](https://github.com/Kerminator1973/TlsProxy/blob/master/example.md)
