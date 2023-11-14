@@ -29,6 +29,11 @@
 - [Реализация web-сервера с использованием Boost.Asio](https://github.com/Kerminator1973/TlsProxy/blob/master/make_shared.md)
 - WEB API для ЭСКД ProIDC с использованием Boost.Asio - репозитарий SVN КБ ДОРС (SberWebAPI)
 
+### Дополнительно
+
+- [Kotlin-приложение, используещее USB CDC](https://github.com/Kerminator1973/AndroidUsbCDC)
+- [Эмуляция CCNET/DSlip на Raspberry Pi Pico](https://github.com/Kerminator1973/RPIDev/blob/main/microcontrollers/pico2040emulateBVS.md)
+
 ## Сертификаты/OpenSSL
 
 - [Проверка сертификата сервера](https://github.com/Kerminator1973/curlhttps/blob/master/pem.md) посредством curl, boost.beast, Android/Java, C#
@@ -38,3 +43,10 @@
 - [Пример скрипта генерации сертификатов](https://github.com/Kerminator1973/curlhttps/tree/master/MakeCertificates)
 - [Использование клиентских сертификатов в C# и C++/curl](https://github.com/Kerminator1973/curlhttps/blob/master/clientCert.md)
 - [Загрузка сертификатов из хранилища Windows](https://github.com/Kerminator1973/TlsProxy/blob/master/example.md)
+
+## Avalonia
+
+- [Пример использования DataGrid](https://github.com/Kerminator1973/Avalonia.DataGridExample) - описание на английском языке
+- Приложение [подтверждающее возможность использования Avalonia в Linux](https://github.com/Kerminator1973/BvsDesktopLinux)
+- Приложение для тестирования узлов АДМ под Debian/Ubuntu - репозитарий SVN КБ ДОРС (ADMCheck)
+- Особенности [верстки XAML в Avalonia](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/avalonia.md)
