@@ -43,6 +43,7 @@
 - [Пример скрипта генерации сертификатов](https://github.com/Kerminator1973/curlhttps/tree/master/MakeCertificates)
 - [Использование клиентских сертификатов в C# и C++/curl](https://github.com/Kerminator1973/curlhttps/blob/master/clientCert.md)
 - [Загрузка сертификатов из хранилища Windows](https://github.com/Kerminator1973/TlsProxy/blob/master/example.md)
+- настройка сертификатов в nginx - репозитарий SVN КБ ДОРС (SberWebAPI)
 
 ## Avalonia
 
