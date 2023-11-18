@@ -15,6 +15,7 @@
 - [CMake и Google Test](https://github.com/Kerminator1973/GTestProject/blob/main/CMake_GoogleTest.md)
 - Приложение WEB API для ЭСКД ProIDC - репозитарий SVN КБ ДОРС (SberWebAPI)
 - Интеграция с ГДАСУЦ - репозитарий SVN КБ ДОРС (BVSDesktop/BPSConverter)
+- Пример использования [Fetch](https://github.com/Kerminator1973/GTestProject/blob/main/CMakeExamples/PortableCCNET/unittest/CMakeLists.txt) для загрузки Google Test скриптом CMake
 
 ## Boost.asio
 
