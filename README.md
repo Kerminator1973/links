@@ -13,9 +13,10 @@
 - [Применение CMake в ProATMEmbedded](https://github.com/Kerminator1973/RPIDev/blob/main/proatmEmb/proAtmBuilding.md)
 - [CMake и Google Benchmark](https://github.com/Kerminator1973/GTestProject/blob/main/benchmark.md)
 - [CMake и Google Test](https://github.com/Kerminator1973/GTestProject/blob/main/CMake_GoogleTest.md)
+- Описание скрипта [Fetch](https://github.com/Kerminator1973/RPIDev/blob/main/cpp/cmakeFetch.md)
+- Пример использования [Fetch](https://github.com/Kerminator1973/GTestProject/blob/main/CMakeExamples/PortableCCNET/unittest/CMakeLists.txt) для загрузки Google Test скриптом CMake
 - Приложение WEB API для ЭСКД ProIDC - репозитарий SVN КБ ДОРС (SberWebAPI)
 - Интеграция с ГДАСУЦ - репозитарий SVN КБ ДОРС (BVSDesktop/BPSConverter)
-- Пример использования [Fetch](https://github.com/Kerminator1973/GTestProject/blob/main/CMakeExamples/PortableCCNET/unittest/CMakeLists.txt) для загрузки Google Test скриптом CMake
 
 ## Boost.asio
 
@@ -32,7 +33,7 @@
 
 ### Дополнительно
 
-- [Kotlin-приложение, используещее USB CDC](https://github.com/Kerminator1973/AndroidUsbCDC)
+- [Kotlin-приложение, управляющее внешним устройством через USB CDC](https://github.com/Kerminator1973/AndroidUsbCDC)
 - [Эмуляция CCNET/DSlip на Raspberry Pi Pico](https://github.com/Kerminator1973/RPIDev/blob/main/microcontrollers/pico2040emulateBVS.md)
 
 ## Сертификаты/OpenSSL
