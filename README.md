@@ -53,3 +53,13 @@
 - Приложение [подтверждающее возможность использования Avalonia в Linux](https://github.com/Kerminator1973/BvsDesktopLinux)
 - Приложение для тестирования узлов АДМ под Debian/Ubuntu - репозитарий SVN КБ ДОРС (ADMCheck)
 - Особенности [верстки XAML в Avalonia](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/avalonia.md)
+
+## React
+
+- Большой [обзорный документ по React](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/react.md), включающий MobX, Axios, CORS и хуки
+- Ревизия React-проекта [через два года](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/react_after_two_years.md) - что стухло и/или изменилось
+- [Встраивание React-приложения в MPA](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/react_embed.md)
+- SPA [Электронный журнал](https://github.com/Kerminator1973/RUFServerLite/tree/main/journal) на React встроенный в MPA RUFServerLite
+- Инструкция по разработке [React-приложения с Redux](https://github.com/Kerminator1973/WebDevelopment/blob/master/reactappsample.md)
+- Учебное приложение [Meal recipe](https://github.com/Kerminator1973/MealsRecipes) (курс) на **React Native** от 2020 года
+- [Учебные приложения](https://github.com/Kerminator1973/WebDevelopment/tree/master/react_examples) из разных курсов по React
