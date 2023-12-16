@@ -69,3 +69,4 @@
 - Подключение приборов BVS по USB, обмен данными [BVSUpdate и AgentRUF](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/agent_ruf.md)
 - Протокол взаимодействия между [BVSUpdate и AgentRUF](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/protocol.md)
 - [Протоколы взаимодействия](https://github.com/Kerminator1973/RPIDev/blob/main/dslip.md) с приборами BVS
+- [Эмуляция прибора BVS](https://github.com/Kerminator1973/RPIDev/blob/main/microcontrollers/pico2040emulateBVS.md) на Raspberry Pi Pico
