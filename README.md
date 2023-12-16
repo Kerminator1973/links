@@ -63,3 +63,9 @@
 - Инструкция по разработке [React-приложения с Redux](https://github.com/Kerminator1973/WebDevelopment/blob/master/reactappsample.md)
 - Учебное приложение [Meal recipe](https://github.com/Kerminator1973/MealsRecipes) (курс) на **React Native** от 2020 года
 - [Учебные приложения](https://github.com/Kerminator1973/WebDevelopment/tree/master/react_examples) из разных курсов по React
+
+## BVSUpdate/AgentRUF/DSlip.dll/BVS
+
+- Подключение приборов BVS по USB, обмен данными [BVSUpdate и AgentRUF](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/agent_ruf.md)
+- Протокол взаимодействия между [BVSUpdate и AgentRUF](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/protocol.md)
+- [Протоколы взаимодействия](https://github.com/Kerminator1973/RPIDev/blob/main/dslip.md) с приборами BVS
