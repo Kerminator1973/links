@@ -28,6 +28,7 @@
 - Динамическая библиотека в которой используется [Boost.Beast](https://github.com/Kerminator1973/TlsProxy/tree/master/TlsProxyDll)
 - Библиотека Portable DSlip, использующая Asio для работы через USB CDC - репозитарий SVN КБ ДОРС (DSlipPortable)
 - Упрощённая реализация протокола CCNET, использующая [Asio Serial](https://github.com/Kerminator1973/GTestProject/tree/main/CMakeExamples/PortableCCNET)
+- [Что под капотом boost::asio](https://github.com/Kerminator1973/TlsProxy/blob/master/asio_impl_windows.md) в Windows? Как используется Windows API в Asio
 - [Реализация web-сервера с использованием Boost.Asio](https://github.com/Kerminator1973/TlsProxy/blob/master/make_shared.md)
 - WEB API для ЭСКД ProIDC с использованием Boost.Asio - репозитарий SVN КБ ДОРС (SberWebAPI)
 
