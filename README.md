@@ -71,3 +71,8 @@
 - Протокол взаимодействия между [BVSUpdate и AgentRUF](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/protocol.md)
 - [Протоколы взаимодействия](https://github.com/Kerminator1973/RPIDev/blob/main/dslip.md) с приборами BVS
 - [Эмуляция прибора BVS](https://github.com/Kerminator1973/RPIDev/blob/main/microcontrollers/pico2040emulateBVS.md) на Raspberry Pi Pico
+
+## Jenkins/DevOps
+
+- [Разработка скриптов](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/jenkins.md) для сборки приложений на серверах сборки в КБ ДОРС, под управлением Jenkins
+- Разработка скриптов сборки и публикации на тестовом сервере описана в репозитарии КБ ДОРС (ProIDC-Cinna)
