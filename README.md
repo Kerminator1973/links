@@ -65,6 +65,27 @@
 - Учебное приложение [Meal recipe](https://github.com/Kerminator1973/MealsRecipes) (курс) на **React Native** от 2020 года
 - [Учебные приложения](https://github.com/Kerminator1973/WebDevelopment/tree/master/react_examples) из разных курсов по React
 
+## ASP.NET Core/Blazor
+
+- [Основа Blazor](https://github.com/Kerminator1973/WebDevelopment/blob/master/blazor.md)
+- Сервер мониторинга - репозитарий SVN КБ ДОРС (Garmr/ProXIMA). Также в проекте активно используется SignalR
+- [Minimal API](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/aspnetcore6.md)
+
+## Entity Framework
+
+Использование Entity Framework в проектах КБ ДОРС описывается вот здесь:
+
+- RUFObjs использует модель Database First - репозитарий SVN КБ ДОРС (RUFServer)
+- Интеграционный сервер "Открытие" - репозитарий SVN КБ ДОРС (ISO2020)
+- ЭСКД ProIDC 3 (Цинна) - репозитарий SVN КБ ДОРС (ProIDC-Cinna)
+
+## Qt
+
+- [Установка Qt в России в 2024 году](https://github.com/Kerminator1973/RPIDev/blob/main/qt_install2024.md)
+- [Настройка кросс-компилятора](https://github.com/Kerminator1973/RPIDev/blob/main/proatmEmb/extrasQt.md) и remote-отладка
+- [Разработка мобильных приложений на Qt](https://github.com/Kerminator1973/MobileDevelopment/blob/master/qtinstall.md)
+- эксперименты с мобильным приложением на QML (криптовалютная биржа)
+
 ## BVSUpdate/AgentRUF/DSlip.dll/BVS
 
 - Подключение приборов BVS по USB, обмен данными [BVSUpdate и AgentRUF](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/agent_ruf.md)
