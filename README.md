@@ -75,9 +75,9 @@
 
 Использование Entity Framework в проектах КБ ДОРС описывается вот здесь:
 
-- RUFObjs использует модель Database First - репозитарий SVN КБ ДОРС (RUFServer)
-- Интеграционный сервер "Открытие" - репозитарий SVN КБ ДОРС (ISO2020)
-- ЭСКД ProIDC 3 (Цинна) - репозитарий SVN КБ ДОРС (ProIDC-Cinna)
+- RUFObjs использует модель Database First - репозитарий SVN КБ ДОРС (...\RUF1\...\RUFObjs)
+- Интеграционный сервер "Открытие" - репозитарий SVN КБ ДОРС (...\OpenADM\...\ISO2020\doc\migration.md)
+- ЭСКД ProIDC 3 (Цинна) - репозитарий SVN КБ ДОРС (...\ProIDC3\...\server\EntityFramework.md)
 
 ## Qt
 
@@ -96,4 +96,4 @@
 ## Jenkins/DevOps
 
 - [Разработка скриптов](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/jenkins.md) для сборки приложений на серверах сборки в КБ ДОРС, под управлением Jenkins
-- Разработка скриптов сборки и публикации на тестовом сервере описана в репозитарии КБ ДОРС (ProIDC-Cinna)
+- Разработка скриптов сборки и публикации на тестовом сервере описана в репозитарии КБ ДОРС (...\ProIDC3\...\server\Jenkins.md)
