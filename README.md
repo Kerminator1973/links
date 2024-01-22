@@ -68,7 +68,7 @@
 ## ASP.NET Core/Blazor
 
 - [Основа Blazor](https://github.com/Kerminator1973/WebDevelopment/blob/master/blazor.md)
-- Сервер мониторинга - репозитарий SVN КБ ДОРС (Garmr/ProXIMA). Также в проекте активно используется SignalR
+- Сервер мониторинга Garmr/ProXIMA - репозитарий SVN КБ ДОРС (.../Garmr/...). Также в проекте активно используется SignalR
 - [Minimal API](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/aspnetcore6.md)
 
 ## Entity Framework
@@ -95,5 +95,5 @@
 
 ## Jenkins/DevOps
 
-- [Разработка скриптов](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/jenkins.md) для сборки приложений на серверах сборки в КБ ДОРС, под управлением Jenkins
-- Разработка скриптов сборки и публикации на тестовом сервере описана в репозитарии КБ ДОРС (...\ProIDC3\...\server\Jenkins.md)
+- [Разработка скриптов](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/jenkins.md) для сборки приложений (в частности, RUFServerLite) на серверах сборки в КБ ДОРС, под управлением Jenkins
+- ЭСКД ProIDC 3 (Цинна) - разработка скриптов сборки и публикации на тестовом сервере описана в репозитарии КБ ДОРС (...\ProIDC3\...\server\Jenkins.md)
