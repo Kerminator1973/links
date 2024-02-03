@@ -73,6 +73,8 @@
 
 ## Entity Framework
 
+- [Инструкция по настройки EF](https://github.com/Kerminator1973/WebDevelopment/blob/master/blazorserver.md) в приложении Blazor Server
+
 Использование Entity Framework в проектах КБ ДОРС описывается вот здесь:
 
 - RUFObjs использует модель Database First - репозитарий SVN КБ ДОРС (...\RUF1\...\RUFObjs)
