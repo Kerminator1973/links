@@ -67,6 +67,7 @@
 
 ## ASP.NET Core/Blazor
 
+- ЭСКД ProIDC 3 (Цинна) - репозитарий SVN КБ ДОРС (...\ProIDC3\...). Наиболее важные части: аутентификация/авторизация, SignalR и DataTables.NET
 - [Основа Blazor](https://github.com/Kerminator1973/WebDevelopment/blob/master/blazor.md)
 - Сервер мониторинга Garmr/ProXIMA - репозитарий SVN КБ ДОРС (.../Garmr/...). Также в проекте активно используется SignalR
 - [Minimal API](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/aspnetcore6.md)
@@ -99,3 +100,4 @@
 
 - [Разработка скриптов](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/jenkins.md) для сборки приложений (в частности, RUFServerLite) на серверах сборки в КБ ДОРС, под управлением Jenkins
 - ЭСКД ProIDC 3 (Цинна) - разработка скриптов сборки и публикации на тестовом сервере описана в репозитарии КБ ДОРС (...\ProIDC3\...\server\Jenkins.md)
+- SPCD (портал сервис-партнёров Департамента Сервиса) - продвинутые скрипты сборки архива с NuGet и публикации на сервере с IIS
