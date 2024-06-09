@@ -74,10 +74,11 @@
 
 ## Entity Framework
 
-- [Инструкция по настройки EF](https://github.com/Kerminator1973/WebDevelopment/blob/master/blazorserver.md) в приложении Blazor Server
+- [Инструкция по настройке EF](https://github.com/Kerminator1973/WebDevelopment/blob/master/blazorserver.md) в приложении Blazor Server
 
 Использование Entity Framework в проектах КБ ДОРС описывается вот здесь:
 
+- [EF в BVSDesktopSupport](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/ef.md)
 - RUFObjs использует модель Database First - репозитарий SVN КБ ДОРС (...\RUF1\...\RUFObjs)
 - Интеграционный сервер "Открытие" - репозитарий SVN КБ ДОРС (...\OpenADM\...\ISO2020\doc\migration.md)
 - ЭСКД ProIDC 3 (Цинна) - репозитарий SVN КБ ДОРС (...\ProIDC3\...\server\EntityFramework.md)
