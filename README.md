@@ -13,6 +13,7 @@
 - [Применение CMake в ProATMEmbedded](https://github.com/Kerminator1973/RPIDev/blob/main/proatmEmb/proAtmBuilding.md)
 - [CMake и Google Benchmark](https://github.com/Kerminator1973/GTestProject/blob/main/benchmark.md)
 - [CMake и Google Test](https://github.com/Kerminator1973/GTestProject/blob/main/CMake_GoogleTest.md)
+- [Локализация приложений с использованием ICU](https://github.com/Kerminator1973/RPIDev/blob/main/cpp/imbue.md)
 - Описание скрипта [Fetch](https://github.com/Kerminator1973/RPIDev/blob/main/cpp/cmakeFetch.md)
 - Пример использования [Fetch](https://github.com/Kerminator1973/GTestProject/blob/main/CMakeExamples/PortableCCNET/unittest/CMakeLists.txt) для загрузки Google Test скриптом CMake
 - Приложение WEB API для ЭСКД ProIDC - репозитарий SVN КБ ДОРС (SberWebAPI)
