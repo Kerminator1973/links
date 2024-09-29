@@ -98,6 +98,12 @@
 - [Создание стенда, настройка средств разработки](https://github.com/Kerminator1973/RPIDev)
 - Интеграция с InterOS - репозитарий SVN КБ ДОРС (BVSDesktop/Utilities). Проекте D820 с Orange Pi R1/4 LTS
 
+## Unit-тестирование
+
+- [Тесты с Jest](https://github.com/Kerminator1973/WebDevelopment/blob/master/unittesting.md), в том числе, для FrontEnd на Vanilla JavaScript
+- [Тесты для C#](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/unittesting.md), в том числе, для Backend на ASP.NET Core 8. Рассматривается Mocking и использование библиотеки Moq
+- ЭСКД ProIDC 3 (Цинна) - репозитарий SVN КБ ДОРС (...\ProIDC3\...\CinnaPages\coverage.md). Запуск тестов для Frontend и Backend. Определение покрытия кода тестами
+
 ## Jenkins/DevOps
 
 - [Разработка скриптов](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/jenkins.md) для сборки приложений (в частности, RUFServerLite) на серверах сборки в КБ ДОРС, под управлением Jenkins
