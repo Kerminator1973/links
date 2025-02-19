@@ -79,6 +79,10 @@
 - Интеграционный сервер "Открытие" - репозитарий SVN КБ ДОРС (...\OpenADM\...\ISO2020\doc\migration.md)
 - ЭСКД ProIDC 3 (Цинна) - репозитарий SVN КБ ДОРС (...\ProIDC3\...\server\EntityFramework.md)
 
+Обслуживание Postgres (pg_dump/pg_restore):
+
+- ЭСКД ProIDC 3 (Цинна) - репозитарий SVN КБ ДОРС (...\ProIDC3\...\server\Postgres.md)
+
 ## Qt
 
 - [Установка Qt в России в 2024 году](https://github.com/Kerminator1973/RPIDev/blob/main/qt_install2024.md)
