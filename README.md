@@ -103,6 +103,7 @@
 - Интеграция с InterOS - репозитарий SVN КБ ДОРС (BVSDesktop/Utilities). Проекте D820 с Orange Pi R1/4 LTS
 - Настройка [Qemu](https://github.com/Kerminator1973/RPIDev/blob/main/qemu.md)
 - Использование [vcpkg](https://github.com/Kerminator1973/GTestProject/blob/main/vcpkg.md) для сборки зависимостей (используемых библиотек)
+- [Сборка сложных C++ приложений](https://github.com/Kerminator1973/RPIDev/blob/main/cmake_vcpkg.md) с использованием CMake, vcpkg и кросс-компиляторов
 
 ## Unit-тестирование
 
