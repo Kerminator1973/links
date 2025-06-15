@@ -100,6 +100,7 @@
 - Протокол взаимодействия между [BVSUpdate и AgentRUF](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/protocol.md)
 - [Протоколы взаимодействия](https://github.com/Kerminator1973/RPIDev/blob/main/dslip.md) с приборами BVS
 - [Эмуляция прибора BVS](https://github.com/Kerminator1973/RPIDev/blob/main/microcontrollers/pico2040emulateBVS.md) на Raspberry Pi Pico
+- PortableDSlip - репозитарий SVN КБ ДОРС
 
 ## Разработка на C++ для ARM
 
