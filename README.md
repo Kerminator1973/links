@@ -50,9 +50,12 @@
 - Приложение [подтверждающее возможность использования Avalonia в Linux](https://github.com/Kerminator1973/BvsDesktopLinux)
 - Приложение для тестирования узлов АДМ под Debian/Ubuntu - репозитарий SVN КБ ДОРС (ADMCheck)
 - Особенности [верстки XAML в Avalonia](https://github.com/Kerminator1973/BVSDesktopSupport/blob/main/avalonia.md)
+- Приложение с переключением страниц - [Switch Pages](https://github.com/Kerminator1973/SwitchPages). Навигационная панель с использованием DataTemplates для создания View по активному ViewModel
+- Приложение [Count by Request](https://github.com/Kerminator1973/CountByRequest). Встраивание web-сервера внутрь приложения Avalonia
 
 ## React
 
+- Использованием [DataTables.net совместно с React](https://github.com/Kerminator1973/ReactDataTables). Также используется модальный диалог
 - Большой [обзорный документ по React](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/react.md), включающий MobX, Axios, CORS и хуки
 - Ревизия React-проекта [через два года](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/react_after_two_years.md) - что стухло и/или изменилось
 - [Встраивание React-приложения в MPA](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/react_embed.md)
@@ -67,6 +70,7 @@
 - [Основа Blazor](https://github.com/Kerminator1973/WebDevelopment/blob/master/blazor.md)
 - Сервер мониторинга Garmr/ProXIMA - репозитарий SVN КБ ДОРС (.../Garmr/...). Также в проекте активно используется SignalR
 - [Minimal API](https://github.com/Kerminator1973/RUFServerLite/blob/main/docs/aspnetcore6.md)
+- Использование [MudBlazor и Blazor](https://github.com/Kerminator1973/ReactDataTables). Также используется модальный диалог
 
 ## Entity Framework
 
