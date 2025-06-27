@@ -131,4 +131,5 @@
 
 - [Kotlin-приложение, управляющее внешним устройством через USB CDC](https://github.com/Kerminator1973/AndroidUsbCDC)
 - [Эмуляция CCNET/DSlip на Raspberry Pi Pico](https://github.com/Kerminator1973/RPIDev/blob/main/microcontrollers/pico2040emulateBVS.md)
+- [Подключение к Pico посредством WinUSB API из браузера Chrome](https://github.com/Kerminator1973/RPIDev/blob/main/microcontrollers/webusb_api_pico.md)
 - [Консоль ADB](https://github.com/Kerminator1973/AndroidUsbCDC/blob/main/android.md): запуск нативных приложений, собранных для ARM
