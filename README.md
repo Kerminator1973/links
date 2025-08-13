@@ -25,6 +25,7 @@
 - [Пример синхронного режима Asio/TCP](https://github.com/Kerminator1973/curlhttps/tree/master/BoostAsioTcpSyncExample)
 - [Асинхронный режим Asio/TCP](https://github.com/Kerminator1973/curlhttps/blob/master/boost_asio_tcp_async_example.md)
 - Асинхронное использование Asio/TCP для ЭСКД ProIDC - репозитарий SVN КБ ДОРС (SberWebAPI)
+- Асинхронное использование boost::beast с ограничением операции по тайм-ауту - репозитарий SVN КБ ДОРС (BVSDesktop, утилита dors2json)
 - [Boost.Beast и WebSockets](https://github.com/Kerminator1973/TlsProxy/blob/master/websockets.md)
 - Динамическая библиотека в которой используется [Boost.Beast](https://github.com/Kerminator1973/TlsProxy/tree/master/TlsProxyDll)
 - Библиотека Portable DSlip, использующая Asio для работы через USB CDC - репозитарий SVN КБ ДОРС (DSlipPortable)
