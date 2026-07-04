@@ -2,6 +2,14 @@
 
 Исторически сложилось, что описание различных технологий выполнялись в разных репозитариях, что со временем потребовало либо объединения разных репозитарией, либо создание отдельного рубрикатора. По зравому размышлению было принято решение использовать рубрикатор.
 
+## ИИ, машинное обучение
+
+- [Базовый репозитарий](https://github.com/Kerminator1973/MLQuickRef) по машинному обучению
+- Общая информация об использовании ИИ для разработки кода: [агенты](https://github.com/Kerminator1973/WebDevelopment/blob/master/agent_llm.md) и [влияние ИИ](https://github.com/Kerminator1973/WebDevelopment/blob/master/ai_impact.md)
+- Отличный [промпт](https://github.com/Kerminator1973/AndroidUsbCDC/blob/main/ai-prompt.md) для рефакторинга кода
+- Опыт использования ИИ для разработки [кода встраиваемых систем](https://github.com/Kerminator1973/RPIDev/blob/main/ai_tests.md)
+- Секретный репозитарий [AccessToLLM](https://gitverse.ru/Kerminator1973/AccessToLLM)
+
 ## CMake
 
 - [Базовая инструкция по CMake](https://github.com/Kerminator1973/GTestProject/blob/main/cmake.md)
