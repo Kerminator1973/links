@@ -6,7 +6,7 @@
 
 - [Базовый репозитарий](https://github.com/Kerminator1973/MLQuickRef) по машинному обучению
 - Общая информация об использовании ИИ для разработки кода: [агенты](https://github.com/Kerminator1973/WebDevelopment/blob/master/agent_llm.md) и [влияние ИИ](https://github.com/Kerminator1973/WebDevelopment/blob/master/ai_impact.md)
-- Отличный [промпт](https://github.com/Kerminator1973/AndroidUsbCDC/blob/main/ai-prompt.md) для рефакторинга кода
+- Отличный [промпт](https://github.com/Kerminator1973/AndroidUsbCDC/blob/main/ai-prompt.md) для рефакторинга кода. Оригинал промпта доступен [здесь](https://github.com/Kerminator1973/MLQuickRef/blob/main/ollama.md), см. "Пример структуры промпта"
 - Опыт использования ИИ для разработки [кода встраиваемых систем](https://github.com/Kerminator1973/RPIDev/blob/main/ai_tests.md)
 - Секретный репозитарий [AccessToLLM](https://gitverse.ru/Kerminator1973/AccessToLLM)
 
